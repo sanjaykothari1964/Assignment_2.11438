@@ -1,0 +1,4 @@
+# program to accept the numbers wih commna separted
+values = input("Input some comma seprated numbers : ")
+list = values.split(",")
+print('List : ',list)
