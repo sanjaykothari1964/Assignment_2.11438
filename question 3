@@ -1,0 +1,3 @@
+#program to reverse the word
+inword=input("give the word to reverse in order")
+inword[::-1]
